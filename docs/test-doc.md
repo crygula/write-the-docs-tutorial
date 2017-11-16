@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 This is a *test* markdown doc.
 
 # Heading 1
