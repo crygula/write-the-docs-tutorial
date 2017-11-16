@@ -29,4 +29,4 @@ Content in the first column | Content in the second column
   * Item 2b
   
   
-![emoticon](https://crygula.github.io/write-the-docs-tutorial/docs/images/devil_motican.jpg)
+![emoticon](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
