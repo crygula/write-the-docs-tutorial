@@ -29,4 +29,4 @@ Content in the first column | Content in the second column
   * Item 2b
   
   
-
+![Test graphic Devil emoticon](/images/devil_motican.jpg)
