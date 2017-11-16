@@ -29,4 +29,4 @@ Content in the first column | Content in the second column
   * Item 2b
   
   
-![Test graphic Devil emoticon](/docs/images/devil_motican.jpg)
+![Test graphic Devil emoticon](https://crygula.github.io/write-the-docs-tutorial/docs/images/devil_motican.jpg)
