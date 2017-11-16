@@ -29,4 +29,4 @@ Content in the first column | Content in the second column
   * Item 2b
   
   
-![emoticon](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
+![GitHub Logo](/images/logo.png)
