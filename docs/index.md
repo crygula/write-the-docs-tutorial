@@ -21,4 +21,4 @@ Follow these general instructions to make a website with _GitHub Pages_.
 
 Get more details in the [GitHub Pages documentation](https://help.github.com/categories/github-pages-basics/).
 
-Test link [www.cisco.com] (https://www.cisco.com).
+Test link [www.cisco.com](https://www.cisco.com).
